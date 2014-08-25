@@ -1,6 +1,6 @@
 ---
-title : First Post
 layout: post
+title : First Post
 category : lessons
 tagline: "Supporting tagline"
 tags : [intro, beginner, jekyll, tutorial]
