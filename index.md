@@ -2,6 +2,7 @@
 layout: page
 title: Hello World!
 tagline: Supporting tagline
+comments: True
 ---
 {% include JB/setup %}
 
