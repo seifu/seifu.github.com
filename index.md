@@ -15,12 +15,13 @@ Some past projects focused on Emergency Department resource management. Associat
 I've used a lot of different analytic tools and programming languages over the years. In this blog I hope to add some relevant nuggest of information to the occasional Google-er.
 
 If you are interested in getting in contact with me for <fill in the blank>. You can contact me through comments on the posts or through GitHub where my handle is seifu.
+
 <!---
 Read [Jekyll Quick Start](http://jekyllbootstrap.com/usage/jekyll-quick-start.html)
 
 Complete usage and documentation available at: [Jekyll Bootstrap](http://jekyllbootstrap.com)
 
-## Update Author Attributes
+ Update Author Attributes
 
 In `_config.yml` remember to specify your own data:
     
@@ -34,12 +35,12 @@ In `_config.yml` remember to specify your own data:
 
 The theme should reference these variables whenever needed.
     
-## Sample Posts
+ Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
 When you don't need the samples anymore just delete the `_posts/core-samples` folder.
 
-    $ rm -rf _posts/core-samples
+     rm -rf _posts/core-samples
 
 Here's a sample "posts list".
 
