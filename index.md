@@ -20,7 +20,7 @@ I've used a lot of different analytic tools and programming languages over the y
 If you are interested in getting in contact with me for <fill in the blank>. You can contact me through comments on the posts or through GitHub where my handle is seifu.
 
 
-
+/f3
 
 
 
