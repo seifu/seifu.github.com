@@ -8,15 +8,15 @@ comments: False
 
 ##About this site
 
-<p style="font-size:16px">
+<p style="font-size:20px">
 Here lies the accumulated concious of a graduate student as I continue to fight the good fight. For the last decade I've worked in analytics and applied mathematics problems in a field of engineering. I explain it that way because I'm not a typical engineer as I don't build machines or work in a factory. I mostly work on decision problems in Operations Research. My thesis focuses on improved uses of computers in chemistry, more specifically cheminformatics. I've been looking into network analysis of literature and physicochemical data to improve the design process through automation, prediction, and data mining. I do this on "Big Data".
-
+</br></br>
 
 Some past projects focused on Emergency Department resource management. Associated papers are available from Google Scholar. Briefly, we looked at providing probabilistic predictions of Emergeny Severity Index (ESI) levels for patients during triage. Our hope is that nurses may find these algorithms (through some yet-to-be-created interface) useful in performing their tasks.
-
+</br></br>
 
 I've used a lot of different analytic tools and programming languages over the years. In this blog I hope to add some relevant nuggets of information to the occasional Google-er.
-
+</br></br>
 
 If you are interested in getting in contact with me for <fill in the blank>. You can contact me through comments on the posts or through GitHub where my handle is seifu.
 </p>
