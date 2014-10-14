@@ -13,7 +13,7 @@ Here lies the accumulated concious of a graduate student as I continue to fight 
 Some past projects focused on Emergency Department resource management. Associated papers are available from Google Scholar. Briefly, we looked at providing probabilistic predictions of Emergeny Severity Index (ESI) levels for patients during triage. Our hope is that nurses may find these algorithms (through some yet-to-be-created interface) useful in performing their tasks.
 
 
-I've used a lot of different analytic tools and programming languages over the years. In this blog I hope to add some relevant nuggest of information to the occasional Google-er.
+I've used a lot of different analytic tools and programming languages over the years. In this blog I hope to add some relevant nuggets of information to the occasional Google-er.
 
 
 If you are interested in getting in contact with me for <fill in the blank>. You can contact me through comments on the posts or through GitHub where my handle is seifu.
