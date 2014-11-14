@@ -17,10 +17,12 @@ Winston Churchill once said:
 
 > The best argument against democracy is a five-minute conversation with the average voter.
 
-Sigmund Freud refers to the normal in this quote:  
+Sigmund Freud refers to the normal in this quote:
+
 > Every normal person, in fact, is only normal on the average. His ego approximates to that of the psychotic in some part or other and to a greater or lesser extent.
 
-Another great has shown hatred for the word average. Portia de Rossi writes: 
+Another great has shown hatred for the word average. Portia de Rossi writes:
+
 > Average. It was the worst, most disgusting word in the English language. Nothing meaningful or worthwhile ever came from that word.
 
 In this post I will explore the word average from the perspective of an old enemy.
