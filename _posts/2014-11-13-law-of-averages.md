@@ -25,6 +25,10 @@ Another great has shown hatred for the word average. Portia de Rossi writes:
 
 > Average. It was the worst, most disgusting word in the English language. Nothing meaningful or worthwhile ever came from that word.
 
-In this post I will explore the word average from the perspective of an old enemy.
+In this series of posts I will explore the word average from the perspective of an old enemy.
+
+## Average, what do you mean?
+
+Average colloquially implies the arithmetic mean; however, it could refer to median or mode, the three measures of central tendency. The arithmetic mean is the sum of a set of numbers divided by the size of the set of numbers. 
 
 
